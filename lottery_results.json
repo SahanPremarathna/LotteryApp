@@ -1,0 +1,123 @@
+{
+  "scraped_at": "2026-07-07T14:06:51.304404",
+  "results": [
+    {
+      "source": "DLB",
+      "lottery": "Ada Kotipathi",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "letter": "S",
+      "numbers": [
+        "12",
+        "53",
+        "75",
+        "76"
+      ],
+      "raw_result": [
+        "S",
+        "12",
+        "53",
+        "75",
+        "76"
+      ]
+    },
+    {
+      "source": "DLB",
+      "lottery": "Kapruka",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "letter": "S",
+      "numbers": [
+        "12",
+        "53",
+        "75",
+        "76"
+      ],
+      "bonus": "MORE",
+      "raw_result": [
+        "S",
+        "12",
+        "53",
+        "75",
+        "76",
+        "MORE"
+      ]
+    },
+    {
+      "source": "DLB",
+      "lottery": "Super Ball",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "letter": "S",
+      "numbers": [
+        "12",
+        "53",
+        "75",
+        "76"
+      ],
+      "raw_result": [
+        "S",
+        "12",
+        "53",
+        "75",
+        "76"
+      ]
+    },
+    {
+      "source": "DLB",
+      "lottery": "Lagna Wasana",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "lagna": "S",
+      "numbers": [
+        "12",
+        "53",
+        "75",
+        "76"
+      ],
+      "raw_result": [
+        "S",
+        "12",
+        "53",
+        "75",
+        "76"
+      ]
+    },
+    {
+      "source": "DLB",
+      "lottery": "Sasiri",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "numbers": [
+        "S",
+        "12",
+        "53"
+      ],
+      "raw_result": [
+        "S",
+        "12",
+        "53"
+      ]
+    },
+    {
+      "source": "DLB",
+      "lottery": "Supiri Dhana Sampatha",
+      "draw_number": "3040",
+      "draw_date": "2026-Jul-06 Monday",
+      "letter": "S",
+      "digits": [
+        "12",
+        "53",
+        "75",
+        "76"
+      ],
+      "raw_result": [
+        "S",
+        "12",
+        "53",
+        "75",
+        "76"
+      ]
+    }
+  ]
+}

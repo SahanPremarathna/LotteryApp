@@ -19,12 +19,33 @@ SCRAPERS = [
 ]
 
 
+def ask_day_offset():
+    value = input(
+        "Enter result day offset "
+        "(0 = present/latest, 1 = yesterday, 2 = day before yesterday): "
+    ).strip()
+
+    if not value:
+        return 0
+
+    try:
+        day_offset = int(value)
+    except ValueError:
+        raise ValueError(f"Please enter a number, got: {value}")
+
+    if day_offset < 0:
+        raise ValueError("Day offset cannot be negative")
+
+    return day_offset
+
+
 def main():
+    day_offset = ask_day_offset()
     results = []
 
     for scraper in SCRAPERS:
         try:
-            result = scraper()
+            result = scraper(day_offset=day_offset)
             results.append(result)
             print(f"[OK] {result['lottery']}")
         except Exception as e:
@@ -32,6 +53,7 @@ def main():
 
     output = {
         "scraped_at": datetime.now().isoformat(),
+        "day_offset": day_offset,
         "results": results
     }
 

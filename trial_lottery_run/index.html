@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Trial Lottery Run</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="intro">
+        <div>
+          <p class="eyebrow">DLB result checker</p>
+          <h1>Trial Lottery Run</h1>
+          <p class="summary">Select a lottery and draw date to preview the result data.</p>
+        </div>
+        <img
+          class="brand-logo"
+          src="https://www.dlb.lk/assets/frontend/eng/images/logo.jpg"
+          alt="Development Lotteries Board"
+        >
+      </section>
+
+      <section class="controls" aria-label="Result search">
+        <label>
+          <span>Lottery</span>
+          <select id="lotterySelect"></select>
+        </label>
+
+        <label>
+          <span>Draw date</span>
+          <input id="dateInput" type="date">
+        </label>
+
+        <button id="searchButton" type="button">Get result</button>
+      </section>
+
+      <section id="message" class="message" hidden></section>
+
+      <section id="resultPanel" class="result-panel" hidden>
+        <div class="result-heading">
+          <img id="lotteryLogo" class="lottery-logo" alt="">
+          <div>
+            <p id="drawMeta" class="eyebrow"></p>
+            <h2 id="lotteryName"></h2>
+          </div>
+        </div>
+
+        <div id="resultGroups" class="result-groups"></div>
+        <div id="imageArea" class="image-area"></div>
+      </section>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

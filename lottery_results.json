@@ -1,122 +1,135 @@
 {
-  "scraped_at": "2026-07-07T14:06:51.304404",
+  "scraped_at": "2026-07-07T15:52:11.179994",
+  "day_offset": 2,
   "results": [
     {
       "source": "DLB",
       "lottery": "Ada Kotipathi",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
-      "letter": "S",
+      "draw_number": "3038",
+      "draw_date": "2026-Jul-04 Saturday",
+      "letter": "G",
       "numbers": [
-        "12",
-        "53",
-        "75",
-        "76"
+        "16",
+        "24",
+        "35",
+        "47"
       ],
       "raw_result": [
-        "S",
-        "12",
-        "53",
-        "75",
-        "76"
+        "G",
+        "16",
+        "24",
+        "35",
+        "47"
       ]
     },
     {
       "source": "DLB",
       "lottery": "Kapruka",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
-      "letter": "S",
+      "draw_number": "2388",
+      "draw_date": "2026-Jul-04 Saturday",
+      "letter": "A",
       "numbers": [
-        "12",
-        "53",
-        "75",
-        "76"
+        "08",
+        "37",
+        "41",
+        "67"
       ],
-      "bonus": "MORE",
+      "special_number": "40",
       "raw_result": [
-        "S",
-        "12",
-        "53",
-        "75",
-        "76",
-        "MORE"
+        "A",
+        "08",
+        "37",
+        "41",
+        "67",
+        "40"
       ]
     },
     {
       "source": "DLB",
       "lottery": "Super Ball",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
-      "letter": "S",
+      "draw_number": "3212",
+      "draw_date": "2026-Jul-04 Saturday",
+      "letter": "C",
       "numbers": [
-        "12",
-        "53",
-        "75",
-        "76"
+        "13",
+        "38",
+        "52",
+        "79"
       ],
+      "special_image": {
+        "alt": null,
+        "title": null,
+        "src": "https://www.dlb.lk/front_img/1783170945DLB_SB_SPECIAL_DRAW_2026-07-04_3212.jpg"
+      },
       "raw_result": [
-        "S",
-        "12",
-        "53",
-        "75",
-        "76"
+        "C",
+        "13",
+        "38",
+        "52",
+        "79"
       ]
     },
     {
       "source": "DLB",
       "lottery": "Lagna Wasana",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
-      "lagna": "S",
+      "draw_number": "4924",
+      "draw_date": "2026-Jul-04 Saturday",
+      "lagna": {
+        "alt": "",
+        "title": null,
+        "src": "https://www.dlb.lk/front_img/1483600135mesha.png"
+      },
       "numbers": [
-        "12",
-        "53",
-        "75",
-        "76"
+        "09",
+        "16",
+        "27",
+        "39"
       ],
       "raw_result": [
-        "S",
-        "12",
-        "53",
-        "75",
-        "76"
+        "09",
+        "16",
+        "27",
+        "39"
       ]
     },
     {
       "source": "DLB",
       "lottery": "Sasiri",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
+      "draw_number": "1042",
+      "draw_date": "2026-Jul-04 Saturday",
       "numbers": [
-        "S",
-        "12",
-        "53"
+        "03",
+        "06",
+        "11"
       ],
       "raw_result": [
-        "S",
-        "12",
-        "53"
+        "03",
+        "06",
+        "11"
       ]
     },
     {
       "source": "DLB",
       "lottery": "Supiri Dhana Sampatha",
-      "draw_number": "3040",
-      "draw_date": "2026-Jul-06 Monday",
-      "letter": "S",
-      "digits": [
-        "12",
-        "53",
-        "75",
-        "76"
+      "draw_number": "946",
+      "draw_date": "2026-Jul-04 Saturday",
+      "letter": "U",
+      "numbers": [
+        "9",
+        "3",
+        "1",
+        "7",
+        "1",
+        "2"
       ],
       "raw_result": [
-        "S",
-        "12",
-        "53",
-        "75",
-        "76"
+        "U",
+        "9",
+        "3",
+        "1",
+        "7",
+        "1",
+        "2"
       ]
     }
   ]
